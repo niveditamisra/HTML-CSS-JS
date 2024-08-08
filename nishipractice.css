@@ -1,0 +1,44 @@
+body {
+  background-color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+}
+
+#yourName {
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 30px;
+}
+
+#password {
+  margin-bottom: 20px;
+  margin-left: 5px;
+}
+
+#email {
+  margin-bottom: 20px;
+  margin-left: 25px;
+}
+
+#age {
+  margin-bottom: 20px;
+  margin-left: 45px;
+}
+
+#alive {
+  padding: 30px;
+  font-size: 30px;
+  margin-bottom: 40px;
+  margin-left: 45px;
+}
+
+#button {
+  margin-top: 20px;
+  size: 20px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: medium;
+}
